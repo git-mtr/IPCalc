@@ -1,6 +1,6 @@
 # Python IP Calculator
 
-```
+```bash
 $ python3 IPCalc.py 192.168.0.10 24
 IP:	        	192.168.0.10
 Network mask:	255.255.255.0
