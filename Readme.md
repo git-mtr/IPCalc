@@ -16,5 +16,11 @@ Binary IP:   	11000000.10101000.00000000.00001010
 Bin netmask:	11111111.11111111.11111111.00000000
 ```
 
+# Pytest
+```
+python3 run.py IPCalc.py 192.168.0.22 24
+```
+
+
 # Wiki
 * https://github.com/git-mtr/IPCalc/wiki
