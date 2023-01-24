@@ -18,7 +18,7 @@ Bin netmask:	11111111.11111111.11111111.00000000
 
 # Pytest
 ```
-python3 run.py IPCalc.py 192.168.0.22 24
+python3 pytest run.py IPCalc.py 192.168.0.22 24
 ```
 
 
